@@ -3,9 +3,9 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
-import 'package:shopping_list_mobile/screens/menu.dart';
 
 import 'package:shopping_list_mobile/widgets/left_drawer.dart';
+import 'package:shopping_list_mobile/screens/menu.dart';
 
 class ShopFormPage extends StatefulWidget {
   const ShopFormPage({Key? key});
